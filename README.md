@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End Development, specially coding in React.
 - 🌱 I’m currently improving my development skills, I have my main focus on React at the moment, however I will look into other frameworks very soon.
 - 💞️ I’m looking to collaborate on any web development project.
-- 📫 You can reach me on ae.graham93@gmail.com
+- 📫 You can reach me on any of my contact details on www.ae-graham.com
 
 <!---
 ae-graham/ae-graham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
